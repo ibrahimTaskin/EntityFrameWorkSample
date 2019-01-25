@@ -1,0 +1,15 @@
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\bin\Debug\EntityFrameWorkSample.exe.config
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\bin\Debug\EntityFrameWorkSample.exe
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\bin\Debug\EntityFrameWorkSample.pdb
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\bin\Debug\EntityFramework.dll
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\bin\Debug\EntityFramework.xml
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\obj\Debug\EntityFrameWorkSample.csprojAssemblyReference.cache
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\obj\Debug\EntityFrameWorkSample.Form1.resources
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\obj\Debug\EntityFrameWorkSample.Properties.Resources.resources
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\obj\Debug\EntityFrameWorkSample.csproj.GenerateResource.cache
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\obj\Debug\EntityFrameWorkSample.csproj.CoreCompileInputs.cache
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\obj\Debug\EntityFrameWorkSample.csproj.CopyComplete
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\obj\Debug\EntityFrameWorkSample.exe
+D:\Programlar\C# Proje\EntityFrameWorkSample\EntityFrameWorkSample\obj\Debug\EntityFrameWorkSample.pdb
